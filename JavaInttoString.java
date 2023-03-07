@@ -1,4 +1,4 @@
-package org.example;
+package org.hackerRank;
 
 import java.util.*;
 import java.security.*;
