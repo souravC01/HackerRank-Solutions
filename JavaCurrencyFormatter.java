@@ -16,8 +16,8 @@ public class JavaCurrencyFormatter {
         String france = NumberFormat.getCurrencyInstance(Locale.FRANCE).format(payment);
 
         System.out.println("US: " + us);
-       System.out.println("India: " + india);
-       System.out.println("China: " + china);
-       System.out.println("France: " + france);
+        System.out.println("India: " + india);
+        System.out.println("China: " + china);
+        System.out.println("France: " + france);
     }
 }
