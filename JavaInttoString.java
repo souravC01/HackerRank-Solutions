@@ -30,7 +30,7 @@ public class JavaInttoString{
     }
 }
 
-//The following class will prevent you from terminating the code using exit(0)!
+
 class DoNotTerminate {
 
     public static class ExitTrappedException extends SecurityException {
