@@ -21,6 +21,7 @@ class Result {
         cal.set(year,(month-1), day);
         int dayOfWeek = cal.get(Calendar.DAY_OF_WEEK);
         String weekDay = "";
+
         switch (dayOfWeek){
             case 1: weekDay = "SUNDAY"; break;
             case 2: weekDay = "MONDAY"; break;
