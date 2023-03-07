@@ -9,6 +9,7 @@ public class JavaStaticInitializerBlock {
         int height, breadth;
 
         breadth = sc.nextInt();
+
         height = sc.nextInt();
 
         if ((breadth <= 0) || (height <= 0)){
